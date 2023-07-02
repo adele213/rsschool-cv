@@ -1,4 +1,4 @@
-# Adele Malikova
+# Aigul Malikova
 #### Ai(@adele213)  
 ### CV is my first job.
 ## Contacts:
