@@ -9,9 +9,7 @@
 ## MInformation about me:
   + I want to become a frontend developer programmer, learn JS, and move on, forward to my dream. 
   + I am a very diligent and persistent person who strives for his goal without seeing obstacles in the way. My folding mind allows me to think in a versatile way. I have no work experience as such, I only helped others on websites.
-### Skills:
-+ HML&CSS; WP.
-  
+
 ## Skills:
 + diligence
 + perseverance
